@@ -1,8 +1,4 @@
-//
-//  main.c
-//  Project2LVL1new
-//
-//  Created by Ali Yiğit Taş on 20.04.2022.
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #pragma warning(suppress : 4996)
